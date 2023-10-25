@@ -14,3 +14,5 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ---
 ### Update all plots when a new sample is selected
+![Screenshot 2023-10-24 212927](https://github.com/Faith-Hall/belly-button-challenge/assets/135525815/5ab62ecd-46b9-4733-96f8-1e033470493e)
+
